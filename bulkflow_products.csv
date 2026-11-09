@@ -1,0 +1,4 @@
+id,shopifyId,title,description,status,price,compareAtPrice,vendor,productType,tags,imageUrl,inventory,sku,barcode,collection,handle,seoTitle,metaDescription,createdAt,updatedAt
+"cmw9qa4jo0001se5xmxicm15d","TS-001","Classic Cotton T-Shirt",,"active","24.99","34.99","Urban Basics","T-Shirts","cotton,casual,basics","https://picsum.photos/seed/tshirt1/400/400","150","TS-001",,"Essentials",,,,,"2026-11-09T20:43:02.917Z"
+"cmw9qa4jt0002se5xbgu06bhi","JN-002","Slim Fit Denim Jeans",,"active","59.99","79.99","DenimCo","Jeans","denim,slim-fit,men","https://picsum.photos/seed/jeans1/400/400","85","JN-002",,"Denim Collection",,,,,"2026-11-09T20:43:02.921Z"
+"cmw9qa4ka0003se5x67f97err","EL-003","Wireless Bluetooth Headphones",,"active","89.99","129.99","TechAudio","Electronics","audio,wireless,bluetooth","https://picsum.photos/seed/headphones1/400/400","200","EL-003",,"Tech Gadgets",,,,,"2026-11-09T20:43:02.924Z"
